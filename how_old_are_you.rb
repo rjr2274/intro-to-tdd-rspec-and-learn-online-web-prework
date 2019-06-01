@@ -1,4 +1,4 @@
-require_relative ./current_age_for_birth_year.#!/usr/bin/env ruby -wKU
+require_relative './current_age_for_birth_year.'#!/usr/bin/env ruby -wKU
 
 puts "What year were you born?"
 birth_year = get.to_i
